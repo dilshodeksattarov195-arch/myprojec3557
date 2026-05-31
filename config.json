@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrecrypt",
+        "uuid": 5666301,
+        "checksum": "su4xd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
